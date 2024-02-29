@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace _01.DefineanInterfaceIPerson
 {
-    internal class Citizen
+    public class Citizen : IPerson
     {
+        public Citizen(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
+
+        public string Name { get; private set; }
+
+        public int Age { get; private set; }
     }
 }

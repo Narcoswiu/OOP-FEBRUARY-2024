@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _01.DefineanInterfaceIPerson
 {
-    internal class IPerson
+    public interface IPerson
     {
+        string Name { get; }
+        int Age { get; }
     }
 }
