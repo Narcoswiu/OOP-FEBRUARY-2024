@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

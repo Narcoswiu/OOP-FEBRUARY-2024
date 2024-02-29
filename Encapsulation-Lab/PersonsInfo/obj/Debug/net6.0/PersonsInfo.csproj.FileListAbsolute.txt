@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll

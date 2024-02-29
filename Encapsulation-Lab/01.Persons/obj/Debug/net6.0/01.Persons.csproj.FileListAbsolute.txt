@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll
