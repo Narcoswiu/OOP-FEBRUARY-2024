@@ -1,0 +1,4 @@
+D:\C#\OOP-February-2024\Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache

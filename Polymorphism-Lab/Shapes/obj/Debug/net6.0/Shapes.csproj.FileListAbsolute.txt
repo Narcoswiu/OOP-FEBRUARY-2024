@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Polymorphism-Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll
