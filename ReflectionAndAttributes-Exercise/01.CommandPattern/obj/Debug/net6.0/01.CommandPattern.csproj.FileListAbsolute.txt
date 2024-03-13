@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\bin\Debug\net6.0\01.CommandPattern.exe
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\bin\Debug\net6.0\01.CommandPattern.deps.json
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\bin\Debug\net6.0\01.CommandPattern.runtimeconfig.json
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\bin\Debug\net6.0\01.CommandPattern.dll
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\bin\Debug\net6.0\01.CommandPattern.pdb
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.AssemblyInfo.cs
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.dll
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\refint\01.CommandPattern.dll
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.pdb
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\01.CommandPattern.genruntimeconfig.cache
+D:\C#\OOP-February-2024\ReflectionAndAttributes-Exercise\01.CommandPattern\obj\Debug\net6.0\ref\01.CommandPattern.dll
