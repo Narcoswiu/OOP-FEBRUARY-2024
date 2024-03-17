@@ -34,7 +34,7 @@ namespace ValidationAttributes.Utils
                         return false;
                     }
                 }
-           }
+            }
 
             return true;
         }
