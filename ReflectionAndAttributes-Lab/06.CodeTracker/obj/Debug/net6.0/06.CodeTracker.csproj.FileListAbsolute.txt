@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.exe
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.deps.json
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.runtimeconfig.json
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.dll
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.pdb
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.dll
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\refint\06.CodeTracker.dll
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.pdb
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Stealer\06.CodeTracker\obj\Debug\net6.0\ref\06.CodeTracker.dll

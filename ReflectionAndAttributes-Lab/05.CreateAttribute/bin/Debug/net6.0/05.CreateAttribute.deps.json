@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "05.CreateAttribute/1.0.0": {
+        "dependencies": {
+          "04.Collector": "1.0.0"
+        },
+        "runtime": {
+          "05.CreateAttribute.dll": {}
+        }
+      },
+      "04.Collector/1.0.0": {
+        "runtime": {
+          "04.Collector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.CreateAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "04.Collector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Stealer\04.Collector\bin\Debug\net6.0\04.Collector.exe
+D:\C#\OOP-February-2024\Stealer\04.Collector\bin\Debug\net6.0\04.Collector.deps.json
+D:\C#\OOP-February-2024\Stealer\04.Collector\bin\Debug\net6.0\04.Collector.runtimeconfig.json
+D:\C#\OOP-February-2024\Stealer\04.Collector\bin\Debug\net6.0\04.Collector.dll
+D:\C#\OOP-February-2024\Stealer\04.Collector\bin\Debug\net6.0\04.Collector.pdb
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.dll
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\refint\04.Collector.dll
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.pdb
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\04.Collector.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Stealer\04.Collector\obj\Debug\net6.0\ref\04.Collector.dll

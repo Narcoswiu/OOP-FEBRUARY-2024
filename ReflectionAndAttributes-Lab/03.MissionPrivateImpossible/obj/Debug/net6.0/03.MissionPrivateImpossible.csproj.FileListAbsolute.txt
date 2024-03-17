@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.exe
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.deps.json
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.runtimeconfig.json
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.dll
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.pdb
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.dll
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\refint\03.MissionPrivateImpossible.dll
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.pdb
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Stealer\03.MissionPrivateImpossible\obj\Debug\net6.0\ref\03.MissionPrivateImpossible.dll

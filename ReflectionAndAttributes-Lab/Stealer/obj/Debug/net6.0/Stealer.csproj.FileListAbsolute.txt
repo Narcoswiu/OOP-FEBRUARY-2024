@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Stealer\Stealer\bin\Debug\net6.0\Stealer.exe
+D:\C#\OOP-February-2024\Stealer\Stealer\bin\Debug\net6.0\Stealer.deps.json
+D:\C#\OOP-February-2024\Stealer\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+D:\C#\OOP-February-2024\Stealer\Stealer\bin\Debug\net6.0\Stealer.dll
+D:\C#\OOP-February-2024\Stealer\Stealer\bin\Debug\net6.0\Stealer.pdb
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.dll
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.pdb
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Stealer\Stealer\obj\Debug\net6.0\ref\Stealer.dll
