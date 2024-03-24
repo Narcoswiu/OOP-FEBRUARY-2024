@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eF9CZqmi1Uq8/8uqQkJVxx+k6Zj780EWC9kAqKFnGg0w4I61u59Q6O87X9wEQWyiWtydewCX642rWotP05I/A==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\OOP-February-2024\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\\FightingArena.Tests\\FightingArena.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narco\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\narco\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+D:\C#\OOP-February-2024\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll

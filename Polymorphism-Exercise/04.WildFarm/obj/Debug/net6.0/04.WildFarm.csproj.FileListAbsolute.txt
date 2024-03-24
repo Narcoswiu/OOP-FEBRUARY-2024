@@ -1,0 +1,14 @@
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.exe
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.deps.json
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.runtimeconfig.json
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.dll
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.pdb
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.dll
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\refint\04.WildFarm.dll
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.pdb
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.genruntimeconfig.cache
+D:\C#\OOP-February-2024\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\ref\04.WildFarm.dll

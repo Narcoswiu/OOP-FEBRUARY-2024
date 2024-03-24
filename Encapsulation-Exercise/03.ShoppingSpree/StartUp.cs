@@ -1,27 +1,63 @@
 ﻿using ShoppingSpree.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace ShoppingSpree
+List<Person> people = new();
+List<Product> products = new();
+
+
+try
 {
-    internal class StartUp
+    string[] nameMoneyPairs = Console.ReadLine()
+        .Split(";", StringSplitOptions.RemoveEmptyEntries);
+
+    foreach (var nameMoneyPair in nameMoneyPairs)
     {
-        static void Main(string[] args)
-        {
+        string[] nameMoney = nameMoneyPair
+            .Split("=", StringSplitOptions.RemoveEmptyEntries);
 
-            try
-            {
+        Person person = new(nameMoney[0], decimal.Parse(nameMoney[1]));
 
-                Product product = new("Watch", 150);
-                Product product2 = new("Phone", 150);
+        people.Add(person);
+    }
 
-                Person person = new("Dimitrichko", 200);
-                Console.WriteLine(person.Add(product));
-            }
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine(ex.Message);
-                return;
+    string[] productCostPairs = Console.ReadLine()
+        .Split(";", StringSplitOptions.RemoveEmptyEntries);
 
-            }
-        }
+    foreach (var productCostPair in productCostPairs)
+    {
+        string[] productCost = productCostPair
+            .Split("=", StringSplitOptions.RemoveEmptyEntries);
+
+        Product product = new(productCost[0], decimal.Parse(productCost[1]));
+
+        products.Add(product);
     }
 }
+catch (ArgumentException ex)
+{
+    Console.WriteLine(ex.Message);
+
+    return;
+}
+
+string input;
+while ((input = Console.ReadLine()) != "END")
+{
+    string[] personProduct = input
+        .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+    string personName = personProduct[0];
+    string productName = personProduct[1];
+
+    Person person = people.FirstOrDefault(p => p.Name == personName);
+    Product product = products.FirstOrDefault(p => p.Name == productName);
+
+    if (person is not null && product is not null)
+    {
+        Console.WriteLine(person.Add(product));
+    }
+}
+
+Console.WriteLine(string.Join(Environment.NewLine, people));
