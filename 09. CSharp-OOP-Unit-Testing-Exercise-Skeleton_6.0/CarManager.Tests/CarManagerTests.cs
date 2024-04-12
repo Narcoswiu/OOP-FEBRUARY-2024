@@ -5,6 +5,8 @@ namespace CarManager.Tests
     [TestFixture]
     public class CarManagerTests
     {
+        private Car car;
+        [Test]
 
     }
 }
